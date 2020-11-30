@@ -1,6 +1,6 @@
 # Hey, I'm Onur, but you can call me Kirman :wink:!
 - :raised_hands: I am an undergrad in the part of the World that was eventually named Turkey, [Anatolia]:earth_africa:.
-- 🔭 I’m currently working on my graduation project which is about Pixelwise Masking Handwritten Text Images using Neural Network.
+- 🔭 I am currently working on my graduation project which is about Pixelwise Masking Handwritten Text Images using Neural Network.
 
 [Anatolia]: https://en.wikipedia.org/wiki/Anatolia
 <!--
