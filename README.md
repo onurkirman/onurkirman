@@ -1,6 +1,6 @@
 # Hey, I'm Onur, but you can call me Kirman :wink:!
 - :raised_hands: I am a graduate student in the part of the World that was eventually named Turkey, [Anatolia]:earth_africa:.
-- 🔭 I am currently in my course phase of M. Sc. in Computer Science at Ozyegin University.
+- 🔭 I am actually in my course phase of M. Sc. in Computer Science at Ozyegin University.
 - 🌱 I am currently learning and enhancing my knowledge on Machine Learning and Computer Vision.
 
 
